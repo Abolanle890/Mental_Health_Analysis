@@ -88,6 +88,18 @@ Power BI provides powerful visualization capabilities and dynamic dashboards ide
 Power BI dashboard contains:
 
 1. **Happiness Score by Country**
-2. **Happiness Score by Diet Type**
-3. **Sleep Hours & Screen Time by Gender**
-4. **Work Hours by Mental Health Condition**
+
+![Image alt](https://github.com/Abolanle890/Mental_Health_Analysis/blob/e436ccd0dae23ddc6045810404ea3c0021c95241/Clustered%20Bar%20Chart.png)
+
+The chart visualizes and compares happiness scores across several countries, highlighting the following key points:
+- Top 3 Countries by Happiness Score:
+- USA (2,386)
+- Australia (2,384)
+- Canada (2,379)
+These countries exhibit the highest levels of reported happiness, suggesting relatively stronger well-being indicators.
+Lowest Happiness Scores:
+- Brazil (2,214)
+- Germany (2,169)
+These lower scores could reflect higher stress levels, lower work-life balance, or other socio-economic or cultural factors.
+Trend Observation:
+There is a gradual decline in happiness scores from Western countries (e.g., USA, Australia) to others like Brazil and Germany. This trend may reflect differences in healthcare, workplace culture, or mental health support systems.
